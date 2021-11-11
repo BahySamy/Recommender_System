@@ -1,2 +1,2 @@
 # Recommender_Systems
-A simple recommender systems
+A simple recommender system that can recommend movies based on its ranking also doing some simple filters.
